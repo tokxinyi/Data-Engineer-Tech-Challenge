@@ -15,7 +15,7 @@ CREATE TABLE sales_transaction (
 CREATE TABLE car (
     manufacturer varchar(255),
     model_name varchar(255),
-    serial_number varchar(255) primary key,
+    serial_number varchar(255) primary key not null,
     weight float,
     price numeric(10,2)
 );

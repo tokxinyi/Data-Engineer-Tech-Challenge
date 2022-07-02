@@ -1,0 +1,1 @@
+30 0 * * * python3 /Users/tokxinyi/Documents/Data-Engineer-Tech-Challenge/1_data_pipelines/pipeline.py
